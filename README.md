@@ -18,5 +18,10 @@ TODO
 Feel free to reach out to `lockna` on Discord
 
 ## License
-divine is distributed under the terms of the LGPL-v3 license.
+divine is distributed under the terms of the BSD-2-clause license.
+
+divine makes use of Qt 6, which is dynamically linked against under LGPL-3. 
+No modifications to the source were made. 
+The Qt binaries are available [here](https://www.qt.io/download-qt-installer-oss).
+
 See [LICENSE](./LICENSE) for details.
